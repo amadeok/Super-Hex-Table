@@ -7,6 +7,7 @@ A general purpose hex-decimal-binary-UTF conversion tool
 
 
 Building from source:
+
 Has been build with MSCV 2019 build tools and Qt Creator 4.15.2
 
 
@@ -20,3 +21,10 @@ on a x64 Native Tools Command Prompt for VS 2019 terminal:
 6)  to copy the dll files:
  <pre><code> windeployqt "release\\Super Hex Table.exe" </code></pre>
  the executable is Super Hex Table.exe
+
+
+
+
+LICENCE
+
+The files in this repository are provided in the LPGL licence.
