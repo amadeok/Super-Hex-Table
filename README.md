@@ -27,4 +27,4 @@ on a x64 Native Tools Command Prompt for VS 2019 terminal:
 
 LICENCE
 
-The files in this repository are provided in the LPGL licence.
+The files in this repository are provided in the LGPL licence.
