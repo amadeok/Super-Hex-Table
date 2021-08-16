@@ -3,9 +3,6 @@ A general purpose hex-decimal-binary-UTF conversion tool
 
 
 ![application screenshot](https://i.ibb.co/wcJs0dR/screenshot.png)
-![](https://i.ibb.co/wcJs0dR/screenshot.png| width=100)
-
-
 
 
 Building from source:
